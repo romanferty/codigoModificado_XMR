@@ -211,7 +211,7 @@ static void print_commands(Config *)
     else {
         Log::print(" * COMMANDS     'h' hashrate, 'p' pause, 'r' resume, 's' results, 'c' connection");
     }
-    print("Prueba de evasion\n")
+    printf("Prueba de evasion\n")
 }
 
 
